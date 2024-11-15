@@ -9,6 +9,3 @@ API OpenWeather: Serviço para consultar dados meteorológicos em tempo real.
 ## Funcionalidades
 Consulta por cidade: O usuário pode digitar o nome de uma cidade no campo de busca e pressionar o botão de pesquisa.
 Exibição das informações climáticas: Ao realizar a pesquisa, são exibidas informações sobre a temperatura atual, sensação térmica, temperaturas máxima e mínima, e a descrição do clima.
-Interface simples e responsiva: A interface foi projetada para ser simples, com foco na usabilidade e na clareza das informações.
-
-
