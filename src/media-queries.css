@@ -1,0 +1,34 @@
+@media (max-width: 768px) {
+    .input-group {
+      flex-direction: row;
+      width: 100%;
+    }
+  
+    .city-input {
+      font-size: 12px;
+      padding: 6px;
+    }
+  
+    .search-btn {
+      font-size: 12px;
+      padding: 6px 10px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .input-group {
+      flex-direction: row;
+      width: 100%;
+    }
+  
+    .city-input {
+      font-size: 12px;
+      padding: 5px;
+    }
+  
+    .search-btn {
+      font-size: 12px;
+      padding: 5px 8px;
+    }
+  }
+   
